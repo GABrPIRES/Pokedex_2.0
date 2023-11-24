@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/static/css/main.bd140f65.css",
+    "main.js": "/static/js/main.3e6f696b.js",
+    "static/js/787.e02f81c6.chunk.js": "/static/js/787.e02f81c6.chunk.js",
+    "static/media/pokemon-unite-key-art-fight.png": "/static/media/pokemon-unite-key-art-fight.47873eece6820502c74a.png",
+    "static/media/pokeball.png": "/static/media/pokeball.6c6b4cb944d0eedc032f.png",
+    "static/media/pokemon-go.png": "/static/media/pokemon-go.779d59ba0a9b90efe0f3.png",
+    "index.html": "/index.html",
+    "main.bd140f65.css.map": "/static/css/main.bd140f65.css.map",
+    "main.3e6f696b.js.map": "/static/js/main.3e6f696b.js.map",
+    "787.e02f81c6.chunk.js.map": "/static/js/787.e02f81c6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bd140f65.css",
+    "static/js/main.3e6f696b.js"
+  ]
+}
